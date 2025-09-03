@@ -1,0 +1,43 @@
+# Web Server
+server:
+  servlet:
+    context-path: /consultas/api
+
+# Spring
+spring:
+  datasource:
+    driver-class-name: org.postgresql.Driver
+    url: ${DATASOURCE_URL:jdbc:postgresql://localhost:5432/consultas}
+    username: ${DATASOURCE_USERNAME:postgres}
+    password: ${DATASOURCE_PASSWORD:1406}
+
+  jpa:
+    show-sql: true
+    hibernate:
+      ddl-auto: update
+    properties:
+      hibernate.jdbc.lob.non_contextual_creation: true
+     
+  flyway:
+    enabled: false
+
+  sql:
+    init:
+      platform: postgres
+
+springdoc:
+  swagger-ui:
+    path: /public/swagger
+
+fipe:
+  api:
+    base-url: https://parallelum.com.br/fipe/api/v1
+
+viacep:
+  api:
+    base-url: https://viacep.com.br
+
+ejc:
+  jwt:
+    expiracao: ${JWT_TEMPO_EXPIRACAO:15}
+    chave: ${JWT_CHAVE:123456}

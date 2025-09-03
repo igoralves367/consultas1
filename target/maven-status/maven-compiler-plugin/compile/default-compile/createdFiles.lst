@@ -1,0 +1,15 @@
+br\com\wakax\consulta\fipe\infra\FipeFeignConfiguration.class
+br\com\wakax\consulta\fipe\infra\FipeRepositoryFeign.class
+br\com\wakax\consulta\fipe\domain\Modelo.class
+br\com\wakax\consulta\fipe\domain\ModelosResponse.class
+br\com\wakax\consulta\fipe\application\service\FipeService.class
+br\com\wakax\consulta\fipe\domain\Ano.class
+br\com\wakax\consulta\fipe\application\repository\FipeRepository.class
+br\com\wakax\consulta\ConsultaApplication.class
+br\com\wakax\consulta\fipe\domain\VeiculoFipe.class
+br\com\wakax\consulta\fipe\api\FipeController.class
+br\com\wakax\consulta\fipe\application\service\FipeApplicationService.class
+br\com\wakax\consulta\fipe\infra\FipeFeignClient.class
+br\com\wakax\consulta\fipe\domain\TipoVeiculo.class
+br\com\wakax\consulta\fipe\domain\Marca.class
+br\com\wakax\consulta\fipe\api\FipeAPI.class

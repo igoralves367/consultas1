@@ -1,0 +1,27 @@
+qnjxm2gBDtxFBlsc4OazqmmIMZQAazw6AYNPiWwxfkg=
+src\main\java\br\com\wakax\consulta\cep\api\CepAPI.java 2025-09-03T18:20:26.311513600Z
+src\main\java\br\com\wakax\consulta\cep\api\CepController.java 2025-09-03T18:20:26.349051200Z
+src\main\java\br\com\wakax\consulta\cep\application\repository\CepRepository.java 2025-09-03T18:20:26.381094600Z
+src\main\java\br\com\wakax\consulta\cep\application\service\CepApplicationService.java 2025-09-03T18:20:26.414570700Z
+src\main\java\br\com\wakax\consulta\cep\application\service\CepService.java 2025-09-03T18:20:26.430442200Z
+src\main\java\br\com\wakax\consulta\cep\domain\Endereco.java 2025-09-03T18:20:26.452865800Z
+src\main\java\br\com\wakax\consulta\cep\domain\EnderecoViaCep.java 2025-09-03T18:20:26.460335600Z
+src\main\java\br\com\wakax\consulta\cep\domain\UfInfo.java 2025-09-03T18:20:26.529636700Z
+src\main\java\br\com\wakax\consulta\cep\infra\CepFeignClient.java 2025-09-03T18:20:26.546795100Z
+src\main\java\br\com\wakax\consulta\cep\infra\CepRepositoryFeign.java 2025-09-03T18:20:26.578090800Z
+src\main\java\br\com\wakax\consulta\ConsultaApplication.java 2025-09-03T14:09:54.059999500Z
+src\main\java\br\com\wakax\consulta\fipe\api\FipeAPI.java 2025-09-03T18:20:26.604747700Z
+src\main\java\br\com\wakax\consulta\fipe\api\FipeController.java 2025-09-03T18:20:26.636713900Z
+src\main\java\br\com\wakax\consulta\fipe\application\repository\FipeRepository.java 2025-09-03T14:00:02.622417900Z
+src\main\java\br\com\wakax\consulta\fipe\application\service\FipeApplicationService.java 2025-09-03T13:59:47.233460700Z
+src\main\java\br\com\wakax\consulta\fipe\application\service\FipeService.java 2025-09-03T13:59:26.584445100Z
+src\main\java\br\com\wakax\consulta\fipe\domain\Ano.java 2025-09-03T14:50:04.491873900Z
+src\main\java\br\com\wakax\consulta\fipe\domain\Marca.java 2025-09-03T14:50:09.758877500Z
+src\main\java\br\com\wakax\consulta\fipe\domain\Modelo.java 2025-09-03T14:50:15.196407500Z
+src\main\java\br\com\wakax\consulta\fipe\domain\ModelosResponse.java 2025-09-03T18:20:26.652460100Z
+src\main\java\br\com\wakax\consulta\fipe\domain\TipoVeiculo.java 2025-09-03T14:02:33.171982900Z
+src\main\java\br\com\wakax\consulta\fipe\domain\VeiculoFipe.java 2025-09-03T18:20:26.674872600Z
+src\main\java\br\com\wakax\consulta\fipe\infra\FipeFeignClient.java 2025-09-03T14:00:25.051837600Z
+src\main\java\br\com\wakax\consulta\fipe\infra\FipeFeignConfiguration.java 2025-09-03T14:01:11.422649Z
+src\main\java\br\com\wakax\consulta\fipe\infra\FipeRepositoryFeign.java 2025-09-03T14:00:55.187488100Z
+src\test\java\br\com\wakax\consulta\fipe\api\FipeControllerTest.java 2025-09-03T14:50:48.882942300Z
