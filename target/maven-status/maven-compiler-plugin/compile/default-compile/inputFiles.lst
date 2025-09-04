@@ -1,14 +1,17 @@
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\api\FipeAPI.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\application\repository\FipeRepository.java
+C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\handler\MessageUtil.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\cep\api\CepAPI.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\cep\application\service\CepApplicationService.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\application\service\FipeApplicationService.java
+C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\handler\APIException.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\cep\infra\CepFeignClient.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\application\service\FipeService.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\infra\FipeFeignConfiguration.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\domain\Marca.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\infra\FipeRepositoryFeign.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\cep\application\service\CepService.java
+C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\handler\RestResponseEntityExceptionHandler.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\domain\ModelosResponse.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\domain\VeiculoFipe.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\api\FipeController.java
@@ -22,4 +25,6 @@ C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\cep\domain\EnderecoV
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\cep\domain\UfInfo.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\ConsultaApplication.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\domain\TipoVeiculo.java
+C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\handler\ErrorApiResponse.java
+C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\handler\ErrorCode.java
 C:\WorkSparce\consultas\src\main\java\br\com\wakax\consulta\fipe\infra\FipeFeignClient.java

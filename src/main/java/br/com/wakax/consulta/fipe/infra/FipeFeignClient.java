@@ -8,7 +8,10 @@ import org.springframework.web.bind.annotation.PathVariable;
 
 import br.com.wakax.consulta.fipe.domain.*;
 
-@FeignClient(name = "fipe-api", url = "${fipe.api.base-url}")
+@FeignClient(
+    name = "fipe-api",
+    url = "${fipe.api.base-url}",
+    configuration = FipeFeignConfiguration.class)
 public interface FipeFeignClient {
 
   @GetMapping("/{tipoVeiculo}/marcas")
